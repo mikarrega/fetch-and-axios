@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/60449239/215915884-d7bd40d5-8ba5-47e9-9748-55310a4293b8.png)
+
+
 # About the project
 The objective of this project is to verify in practice the difference between consuming an API using Fetch or Axios
 
