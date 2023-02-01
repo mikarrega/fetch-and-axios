@@ -1,4 +1,4 @@
-#About the project
+# About the project
 The objective of this project is to verify in practice the difference between consuming an API using Fetch or Axios
 
 # Fetch
